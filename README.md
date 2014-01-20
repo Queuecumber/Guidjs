@@ -3,6 +3,8 @@ Guidjs
 
 Library for generating guids in javascript
 
+[UUID Specification](http://www.ietf.org/rfc/rfc4122.txt)
+
 
 Credit
 ======
